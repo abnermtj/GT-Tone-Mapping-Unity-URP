@@ -2,7 +2,8 @@
 
 Gran Turismo tonemapper using fullscreen shader graph. https://www.desmos.com/calculator/gslcdxvipg
 
-Tested on 2022.3.36f1
+Tested on Unity3D 2022.3.36f1 URP 14.0.10
+
 ## To Use
 Add a full screen render feature with the material.
 ![ToUse](https://github.com/user-attachments/assets/bf6bd532-c62a-41d1-947e-b1d81183b993)
